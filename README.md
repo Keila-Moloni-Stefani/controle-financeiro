@@ -52,8 +52,8 @@ Este projeto é um sistema que simula operações bancárias básicas aplicaçã
 ## 🚀 Como Executar
 ```bash
 ### **Pré-requisitos**
-- Java JDK 8 ou superior
-- IDE de sua preferência (Eclipse, IntelliJ, VSCode)
+Java JDK 8 ou superior
+IDE de sua preferência (Eclipse, IntelliJ, VSCode)
 ```
 ### **Execução**
 1. Clone este repositório
